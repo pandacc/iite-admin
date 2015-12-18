@@ -1,2 +1,3 @@
-如图：
-[![Build Status - 3.3/master](https://travis-ci.org/kohana/database.svg?branch=3.3%2Fmaster)](https://travis-ci.org/kohana/database)
+### 见图：
+
+![](http://imagesdemo.jumppo.com/uploads/5B7E7003-F2CE-4CB7-99BD-30F1C5947726.png)
